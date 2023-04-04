@@ -11,7 +11,7 @@ To Perform Bivariate/Multivariate Analysis
 
 ### program:
 ```
-NAME:Mohamed Islam A
+NAME:Mohamed islam
 REG.NO:212220220025
 ```
 ```
