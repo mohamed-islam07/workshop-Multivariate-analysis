@@ -40,8 +40,7 @@ Save the final data set into the file.
 ## Code
 
 ```
-Developed by : Mohamed islam
-Registration Number : 212220220025
+
 ```
 
 ```
